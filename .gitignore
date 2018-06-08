@@ -1,0 +1,5 @@
+.idea
+project/target
+target
+src/main/resources/songdata.csv
+.DS_Store
