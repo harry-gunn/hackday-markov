@@ -1,3 +1,5 @@
+package helpers
+
 import com.github.tototoshi.csv.{CSVReader, MalformedCSVException}
 
 object CsvHelper {
